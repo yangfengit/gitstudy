@@ -1,4 +1,4 @@
 ﻿1 I am a good girl
 2 second row
 3 origin是远程库的意思
-4
+4 命令先git add ** 再git commit -m ""
