@@ -3,4 +3,3 @@
 3 origin是远程库的意思
 4 命令先git add ** 再git commit -m ""
 5 20181122
-6 第六行
